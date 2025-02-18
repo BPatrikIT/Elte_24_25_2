@@ -1,0 +1,15 @@
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Adagolo\bin\Debug\net8.0\Adagolo.exe
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Adagolo\bin\Debug\net8.0\Adagolo.deps.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Adagolo\bin\Debug\net8.0\Adagolo.runtimeconfig.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Adagolo\bin\Debug\net8.0\Adagolo.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Adagolo\bin\Debug\net8.0\Adagolo.pdb
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Adagolo\obj\Debug\net8.0\Adagolo.GeneratedMSBuildEditorConfig.editorconfig
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Adagolo\obj\Debug\net8.0\Adagolo.AssemblyInfoInputs.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Adagolo\obj\Debug\net8.0\Adagolo.AssemblyInfo.cs
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Adagolo\obj\Debug\net8.0\Adagolo.csproj.CoreCompileInputs.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Adagolo\obj\Debug\net8.0\Adagolo.sourcelink.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Adagolo\obj\Debug\net8.0\Adagolo.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Adagolo\obj\Debug\net8.0\refint\Adagolo.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Adagolo\obj\Debug\net8.0\Adagolo.pdb
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Adagolo\obj\Debug\net8.0\Adagolo.genruntimeconfig.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Adagolo\obj\Debug\net8.0\ref\Adagolo.dll

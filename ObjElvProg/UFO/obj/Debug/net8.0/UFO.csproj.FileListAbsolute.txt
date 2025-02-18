@@ -1,0 +1,15 @@
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\UFO\bin\Debug\net8.0\UFO.exe
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\UFO\bin\Debug\net8.0\UFO.deps.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\UFO\bin\Debug\net8.0\UFO.runtimeconfig.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\UFO\bin\Debug\net8.0\UFO.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\UFO\bin\Debug\net8.0\UFO.pdb
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\UFO\obj\Debug\net8.0\UFO.GeneratedMSBuildEditorConfig.editorconfig
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\UFO\obj\Debug\net8.0\UFO.AssemblyInfoInputs.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\UFO\obj\Debug\net8.0\UFO.AssemblyInfo.cs
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\UFO\obj\Debug\net8.0\UFO.csproj.CoreCompileInputs.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\UFO\obj\Debug\net8.0\UFO.sourcelink.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\UFO\obj\Debug\net8.0\UFO.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\UFO\obj\Debug\net8.0\refint\UFO.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\UFO\obj\Debug\net8.0\UFO.pdb
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\UFO\obj\Debug\net8.0\UFO.genruntimeconfig.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\UFO\obj\Debug\net8.0\ref\UFO.dll

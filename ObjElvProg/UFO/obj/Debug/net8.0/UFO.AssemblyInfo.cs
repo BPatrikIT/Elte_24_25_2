@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UFO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5030360e4d6e8f2321b450ccb0138e4ee1309a39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91108d190858a37ef9dde31f6a954faeead472ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("UFO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UFO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

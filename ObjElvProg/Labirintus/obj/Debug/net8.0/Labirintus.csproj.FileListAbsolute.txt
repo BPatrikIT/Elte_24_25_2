@@ -1,0 +1,15 @@
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Labirintus\bin\Debug\net8.0\Labirintus.exe
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Labirintus\bin\Debug\net8.0\Labirintus.deps.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Labirintus\bin\Debug\net8.0\Labirintus.runtimeconfig.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Labirintus\bin\Debug\net8.0\Labirintus.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Labirintus\bin\Debug\net8.0\Labirintus.pdb
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Labirintus\obj\Debug\net8.0\Labirintus.GeneratedMSBuildEditorConfig.editorconfig
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Labirintus\obj\Debug\net8.0\Labirintus.AssemblyInfoInputs.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Labirintus\obj\Debug\net8.0\Labirintus.AssemblyInfo.cs
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Labirintus\obj\Debug\net8.0\Labirintus.csproj.CoreCompileInputs.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Labirintus\obj\Debug\net8.0\Labirintus.sourcelink.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Labirintus\obj\Debug\net8.0\Labirintus.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Labirintus\obj\Debug\net8.0\refint\Labirintus.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Labirintus\obj\Debug\net8.0\Labirintus.pdb
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Labirintus\obj\Debug\net8.0\Labirintus.genruntimeconfig.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Labirintus\obj\Debug\net8.0\ref\Labirintus.dll

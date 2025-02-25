@@ -15,7 +15,7 @@ namespace UFO
         {
             if (r < 0)
             {
-                throw new ArgumentException();
+                throw new ArgumentException("Radius must be non-negative");
             }
             this.c = c;
             this.r = r;

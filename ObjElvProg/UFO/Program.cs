@@ -24,6 +24,15 @@
 
             Gomb g = new Gomb(f, 5);
 
+            try
+            {
+                Gomb gerror = new Gomb(f, -5);
+            }
+            catch (ArgumentException)
+            {
+                Console.WriteLine("Kivetel elkapva.");
+            }
+
             int db = 0;
 
             for (int i = 0; i < pontok.Count; i++)

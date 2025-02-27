@@ -1,0 +1,15 @@
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Polinom\bin\Debug\net8.0\Polinom.exe
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Polinom\bin\Debug\net8.0\Polinom.deps.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Polinom\bin\Debug\net8.0\Polinom.runtimeconfig.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Polinom\bin\Debug\net8.0\Polinom.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Polinom\bin\Debug\net8.0\Polinom.pdb
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Polinom\obj\Debug\net8.0\Polinom.GeneratedMSBuildEditorConfig.editorconfig
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Polinom\obj\Debug\net8.0\Polinom.AssemblyInfoInputs.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Polinom\obj\Debug\net8.0\Polinom.AssemblyInfo.cs
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Polinom\obj\Debug\net8.0\Polinom.csproj.CoreCompileInputs.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Polinom\obj\Debug\net8.0\Polinom.sourcelink.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Polinom\obj\Debug\net8.0\Polinom.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Polinom\obj\Debug\net8.0\refint\Polinom.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Polinom\obj\Debug\net8.0\Polinom.pdb
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Polinom\obj\Debug\net8.0\Polinom.genruntimeconfig.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Polinom\obj\Debug\net8.0\ref\Polinom.dll

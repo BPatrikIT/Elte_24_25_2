@@ -20,16 +20,18 @@
 	<main id="tartalom">
 		<h2>Saját kedvenc beküldése</h2>
 		<p>Neked is van kedvenc filmed ebben a témában? Ha igen, kérlek töltsd ki az alábbi űrlapot.</p>
+
+		<form action="mailto:gipszjakab@gmail.com" method="post" enctype="text/plain">
 		<!-- Űrlap kezdete -->
 				<p>A film adatai</p>
-				<label for=""><strong>Cím (magyarul)</strong></label><br>
-				<!-- egysoros beviteli mező -->
-				<label for=""><strong>Cím (angolul)</strong></label><br>
-				<!-- egysoros beviteli mező -->
-				<label for=""><strong>IMDb webcím:</strong></label><br>
-				<!-- egysoros beviteli mező webcímnek -->
+				<label for="magyarcim"><strong>Cím (magyarul)</strong></label><br>
+				<input type="text" name="magyarcim" id="magyarcim" maxlength="50" size="50" ><br>
+				<label for="angolcim"><strong>Cím (angolul)</strong></label><br>
+				<input type="text" name="angolcim" id="angolcim" maxlength="50" size="50" ><br>
+				<label for="imdb"><strong>IMDb webcím:</strong></label><br>
+				<input type="url" name="imdb" id="imdb" maxlength="80" size="50" value="http://www.imdb.com/"><br>
 				<label for=""><strong>A film cselekménye röviden</strong></label><br>
-				<!-- szövegterület -->
+				<textarea name="cselekmeny" id="cselekmeny" cols="50" rows="5"></textarea><br>
 				<p>Értékelés</p>
 				<p>A Te értékelésed 5-ös skálán<br>
 					<!-- rádiógombok -->
@@ -47,9 +49,12 @@
 				<!-- jelölőnégyzet -->
 				<label for="">Fel szeretnék jelentkezni a filmes hírlevélre</label>
 				<p>Adatok elküldése</p>
+				<input type="submit" value="Elküld">
+				<input type="reset" value="Alaphelyzet">
 				<!-- elküldés gomb -->
 				 <!-- alaphelyzet gomb -->
 		<!-- Űrlap vége -->
+		</form>
 		<p>Emlékeztetőül, eddig ezek a filmek vannak a listámban:</p>
 		<nav id="oldalmenu">
 			<ol>

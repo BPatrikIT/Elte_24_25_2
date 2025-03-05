@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
+
 /* General Styles */
 html {
     background-image     : url("../media/hatter.jpg");
@@ -179,6 +181,25 @@ hr {
     margin    : 20px 0 10px 0;
 }
 
+legend {
+    color: rgb(110, 54, 54);
+    font-weight: bold;
+    font-family: "Kalam", serif;
+    font-size: 1.2em;
+}
+
+fieldset {
+    background-color: #f8f8f2;
+}
+
+canvas {
+    float: right;
+}
+
+.center {
+    text-align: center;
+}
+
 /* Responsive Design */
 @media (min-width: 769px) {
     table {
@@ -208,4 +229,11 @@ hr {
     h1 {
         font-size: 1.3rem;
     }
+}
+
+@media screen and (min-width: 1000px) {
+    .hasab {
+        columns: 2;
+    }
+    
 }

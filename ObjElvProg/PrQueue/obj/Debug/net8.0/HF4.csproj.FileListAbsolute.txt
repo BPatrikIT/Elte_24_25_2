@@ -1,0 +1,15 @@
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\PrQueue\obj\Debug\net8.0\HF4.GeneratedMSBuildEditorConfig.editorconfig
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\PrQueue\obj\Debug\net8.0\HF4.AssemblyInfoInputs.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\PrQueue\obj\Debug\net8.0\HF4.AssemblyInfo.cs
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\PrQueue\obj\Debug\net8.0\HF4.csproj.CoreCompileInputs.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\PrQueue\obj\Debug\net8.0\HF4.sourcelink.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\PrQueue\bin\Debug\net8.0\HF4.exe
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\PrQueue\bin\Debug\net8.0\HF4.deps.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\PrQueue\bin\Debug\net8.0\HF4.runtimeconfig.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\PrQueue\bin\Debug\net8.0\HF4.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\PrQueue\bin\Debug\net8.0\HF4.pdb
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\PrQueue\obj\Debug\net8.0\HF4.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\PrQueue\obj\Debug\net8.0\refint\HF4.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\PrQueue\obj\Debug\net8.0\HF4.pdb
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\PrQueue\obj\Debug\net8.0\HF4.genruntimeconfig.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\PrQueue\obj\Debug\net8.0\ref\HF4.dll

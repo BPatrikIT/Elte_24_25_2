@@ -1,0 +1,15 @@
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\SzamTechShop\bin\Debug\net8.0\SzamTechShop.exe
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\SzamTechShop\bin\Debug\net8.0\SzamTechShop.deps.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\SzamTechShop\bin\Debug\net8.0\SzamTechShop.runtimeconfig.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\SzamTechShop\bin\Debug\net8.0\SzamTechShop.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\SzamTechShop\bin\Debug\net8.0\SzamTechShop.pdb
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\SzamTechShop\obj\Debug\net8.0\SzamTechShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\SzamTechShop\obj\Debug\net8.0\SzamTechShop.AssemblyInfoInputs.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\SzamTechShop\obj\Debug\net8.0\SzamTechShop.AssemblyInfo.cs
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\SzamTechShop\obj\Debug\net8.0\SzamTechShop.csproj.CoreCompileInputs.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\SzamTechShop\obj\Debug\net8.0\SzamTechShop.sourcelink.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\SzamTechShop\obj\Debug\net8.0\SzamTechShop.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\SzamTechShop\obj\Debug\net8.0\refint\SzamTechShop.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\SzamTechShop\obj\Debug\net8.0\SzamTechShop.pdb
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\SzamTechShop\obj\Debug\net8.0\SzamTechShop.genruntimeconfig.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\SzamTechShop\obj\Debug\net8.0\ref\SzamTechShop.dll

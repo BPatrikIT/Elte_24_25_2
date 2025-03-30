@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SzamTechShop": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\SzamTechShop\\test.txt"
+    }
+  }
+}

@@ -250,6 +250,7 @@ tr:nth-child(2n+1) { /* KITÖLTENI  */
     
     /* KITÖLTENI  - Az elemet balra igazítja, a következő tartalom körbefolyhatja */
     margin-right: 50px;
+    float: right;
     /* Az elem jobb oldalán 50px külső margót állít be */
 }
 
@@ -263,13 +264,23 @@ fieldset {
 
 /* nyomtatás */
   /* KITÖLTENI - nyomtatásra szánt elemek eltüntetése */
+  .nyomtatas {
+    display: none;
+  }
 
 
 /* BETŰMÉRET FINOMHANGOLÁS */
-
+body {
+    font-size: clamp(12px, 3vw, 16px);
+}
 /* KITÖLTENI - Reszponzív betűméret beállítása. Preferált: 3vw, minimum: 16px, maximum 24px */
-    
+select, form * {
+    font-size: inherit;
+}
 /* KITÖLTENI - Annak beállítása, hogy a betűméret öröklődjön, mert sajnos űrlapelemeknél ez nem történik meg */
-
+input[type="url"], input[type="text"], input[type="email"] textarea {
+    max-width: 400px;
+    width: 100%;
+}
 /* KITÖLTENI - input, textarea űrlapelemek maximális szélességének beállítása */
 

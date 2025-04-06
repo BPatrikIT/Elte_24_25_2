@@ -47,10 +47,10 @@ body.large fieldset {
   
 
 
-.KITOLTENI { /* KITÖLTENI - jelölőnégyzet és rádiógomb beállítása */
-  
+:is(body.large) :is(input[type="checkbox"], input[type="radio"]) { /* KITÖLTENI - jelölőnégyzet és rádiógomb beállítása */
+  transform: scale(3);
   /* Az elem átalakításainak (nagyítás) beállítása */
-  
+  margin: 10px;
   /* Külső 10px-es margó beállítása */
 }
 

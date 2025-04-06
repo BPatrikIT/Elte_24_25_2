@@ -1,0 +1,15 @@
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Allatok\bin\Debug\net8.0\Allatok.exe
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Allatok\bin\Debug\net8.0\Allatok.deps.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Allatok\bin\Debug\net8.0\Allatok.runtimeconfig.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Allatok\bin\Debug\net8.0\Allatok.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Allatok\bin\Debug\net8.0\Allatok.pdb
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Allatok\obj\Debug\net8.0\Allatok.GeneratedMSBuildEditorConfig.editorconfig
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Allatok\obj\Debug\net8.0\Allatok.AssemblyInfoInputs.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Allatok\obj\Debug\net8.0\Allatok.AssemblyInfo.cs
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Allatok\obj\Debug\net8.0\Allatok.csproj.CoreCompileInputs.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Allatok\obj\Debug\net8.0\Allatok.sourcelink.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Allatok\obj\Debug\net8.0\Allatok.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Allatok\obj\Debug\net8.0\refint\Allatok.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Allatok\obj\Debug\net8.0\Allatok.pdb
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Allatok\obj\Debug\net8.0\Allatok.genruntimeconfig.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Allatok\obj\Debug\net8.0\ref\Allatok.dll

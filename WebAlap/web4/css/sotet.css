@@ -1,3 +1,4 @@
+    @media (prefers-color-scheme: dark) {
     /* arculati színek felülírása */
     :root {
         --main-color: #8db4c6;
@@ -15,7 +16,17 @@
         background: var(--bg-color);  /* Sötét módban nem lesz átmenetes a címsor háttere, csak sötét*/
     }
 
+    body {
+        background-image: url("../media/hatter_sotet.jpg");
+    }
+
+    canvas {
+        filter: invert(1);
+    }
+
    
 /* KITÖLTENI - Sötét háttérkép beállítása*/
 
 /* KITÖLTENI - Canvas grafika invertálása*/
+
+}

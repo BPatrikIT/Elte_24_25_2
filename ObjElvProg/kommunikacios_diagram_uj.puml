@@ -1,0 +1,23 @@
+
+@startuml
+title Kommunikációs diagram – Kisállat vásárlás folyamata
+
+participant "Kisállatkereskedés" as Kereskedes
+participant "Állattartó" as Vevo
+participant "Számla" as Szamla
+participant "Állat" as Allat
+
+Vevo -> Kereskedes : vásárlási igény (állat)
+Kereskedes -> Allat : keresés a készletben
+
+alt állat megtalálva
+    Kereskedes -> Szamla : új számla létrehozása (eladó=Kereskedes,\nvevő=Vevo,\nállat)
+    Szamla -> Allat : tulajdonos váltása (vevő)
+    Kereskedes -> Vevo : számla elküldése
+    Vevo -> Kereskedes : fizetés
+    Kereskedes -> Kereskedes : partner nyilvántartás frissítése (Vevo)
+else állat nem található
+    Kereskedes -> Vevo : visszajelzés (nincs készleten)
+end
+
+@enduml

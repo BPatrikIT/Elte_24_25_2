@@ -1,0 +1,15 @@
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Registration\bin\Debug\net8.0\HF8.exe
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Registration\bin\Debug\net8.0\HF8.deps.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Registration\bin\Debug\net8.0\HF8.runtimeconfig.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Registration\bin\Debug\net8.0\HF8.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Registration\bin\Debug\net8.0\HF8.pdb
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Registration\obj\Debug\net8.0\HF8.GeneratedMSBuildEditorConfig.editorconfig
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Registration\obj\Debug\net8.0\HF8.AssemblyInfoInputs.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Registration\obj\Debug\net8.0\HF8.AssemblyInfo.cs
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Registration\obj\Debug\net8.0\HF8.csproj.CoreCompileInputs.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Registration\obj\Debug\net8.0\HF8.sourcelink.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Registration\obj\Debug\net8.0\HF8.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Registration\obj\Debug\net8.0\refint\HF8.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Registration\obj\Debug\net8.0\HF8.pdb
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Registration\obj\Debug\net8.0\HF8.genruntimeconfig.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Registration\obj\Debug\net8.0\ref\HF8.dll

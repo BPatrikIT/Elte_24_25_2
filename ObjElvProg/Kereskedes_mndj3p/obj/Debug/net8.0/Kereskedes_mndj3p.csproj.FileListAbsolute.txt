@@ -1,0 +1,15 @@
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Kereskedes_mndj3p\bin\Debug\net8.0\Kereskedes_mndj3p.exe
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Kereskedes_mndj3p\bin\Debug\net8.0\Kereskedes_mndj3p.deps.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Kereskedes_mndj3p\bin\Debug\net8.0\Kereskedes_mndj3p.runtimeconfig.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Kereskedes_mndj3p\bin\Debug\net8.0\Kereskedes_mndj3p.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Kereskedes_mndj3p\bin\Debug\net8.0\Kereskedes_mndj3p.pdb
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Kereskedes_mndj3p\obj\Debug\net8.0\Kereskedes_mndj3p.GeneratedMSBuildEditorConfig.editorconfig
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Kereskedes_mndj3p\obj\Debug\net8.0\Kereskedes_mndj3p.AssemblyInfoInputs.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Kereskedes_mndj3p\obj\Debug\net8.0\Kereskedes_mndj3p.AssemblyInfo.cs
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Kereskedes_mndj3p\obj\Debug\net8.0\Kereskedes_mndj3p.csproj.CoreCompileInputs.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Kereskedes_mndj3p\obj\Debug\net8.0\Kereskedes_mndj3p.sourcelink.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Kereskedes_mndj3p\obj\Debug\net8.0\Kereskedes_mndj3p.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Kereskedes_mndj3p\obj\Debug\net8.0\refint\Kereskedes_mndj3p.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Kereskedes_mndj3p\obj\Debug\net8.0\Kereskedes_mndj3p.pdb
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Kereskedes_mndj3p\obj\Debug\net8.0\Kereskedes_mndj3p.genruntimeconfig.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\Kereskedes_mndj3p\obj\Debug\net8.0\ref\Kereskedes_mndj3p.dll

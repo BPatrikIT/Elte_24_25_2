@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kereskedes_mndj3p")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74cb24b05b798817856f9400a0e9f44cce9c0ef5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aba16bd6ee6731d153c3a2a973f4eb3bb0877e5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kereskedes_mndj3p")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kereskedes_mndj3p")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

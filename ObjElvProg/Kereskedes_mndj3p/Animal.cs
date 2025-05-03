@@ -22,6 +22,12 @@ namespace Kereskedes_mndj3p
             this.realValue = species.CalculateRealValue();
         }
 
+        public string AnimalID
+        {
+            get { return animalID; }
+            set { animalID = value; }
+        }
+
         public Species Species
         {
             get { return species; }

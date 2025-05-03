@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="hu">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jelentkezem - Kis Tamás weblapja</title>
+    <link rel="stylesheet" href="css.css" />
+  </head>
+  <body>
+    <header>
+      <nav class="navbar">
+        <div>
+          <a href="index.html">
+            <img src="logo.webp" alt="Weboldal logója" class="logo"/>
+          </a>
+        </div>
+          <ul class="navbar_linkek">
+            <li><a href="index.html">Főoldal</a></li>
+            <li><a href="kezdok.html">Tippek Kezdőknek</a></li>
+            <li><a href="urlap.html"><strong>Jelentkezem</strong></a></li>
+          </ul>
+      </nav>
+
+      <hr />
+    </header>
+
+    <main>
+
+        <h1>Miért érdemes jelentkezned a futásunkra?</h1>
+        <p>
+          <ol>
+              <li><strong> Közösségi élmény:</strong> Csatlakozz hozzánk, és fuss egy lelkes, támogató közösségben!
+                  Együtt futni mindig motiválóbb és szórakoztatóbb.                    
+                  </li>
+              <li><strong>Egészségedért:</strong>A rendszeres futás segít a fittség megőrzésében, erősíti az
+                  immunrendszert és csökkenti a stresszt</li>
+              <li><strong>Jó hangulat és kihívás:</strong> Egy szervezett esemény mindig extra motivációt ad. Célba
+                  érni fantasztikus élmény!
+                  </li>
+              <li><strong>Professzionális szervezés:</strong> Gondosan előkészített útvonalak, frissítőpontok és
+                  barátságos szervezők várnak rád.</li>
+              <li><strong>Ajándékok és érmek:</strong>  Minden résztvevő meglepetésajándékot kap, és a célba érők
+                  érmet is hazavihetnek. Külön díjazzuk a leggyorsabb futókat és a leglelkesebb
+                  résztvevőket.</li>
+              <li><strong>Kapcsolatépítés:</strong>Lehetőséged lesz új embereket megismerni, akik hasonló
+                  érdeklődési körrel rendelkeznek.</li>
+          </ol>
+        </p>
+
+        <h2>Jelentkezési űrlap</h2>
+      
+
+      <div class="urlapkep">
+        <div>
+          <form action="mailto:runwithus1234@gmail.com" method="post" enctype="text/plain">
+            <fieldset>
+              <div id="urlapcim">
+                Ha szeretnél csatlakozni az általunk szervezett futáshoz, töltsd ki
+                az alábbi űrlapot:
+              </div>
+    
+              <label for="nev"><strong>Név:</strong></label
+              ><br />
+              <input type="text" name="nev" id="cim1" size="50" /><br />
+              <label for="telefonszam"><strong>Telefonszám:</strong></label
+              ><br />
+              <input type="text" name="telefonszam" id="cim2" size="50" /><br />
+              <label for="email"><strong>E-mail:</strong></label
+              ><br />
+              <input type="url" size="50" name="email" id="imdb" />
+    
+              <p><strong>Milyen távon szeretnél futni?</strong></p>
+              <input type="radio" name="tav" id="v1" value="5" />
+              <label for="v1">5 km</label>
+              <input type="radio" name="tav" id="v2" value="10" />
+              <label for="v2">10 km</label>
+              <input type="radio" name="tav" id="v3" value="21" />
+              <label for="v3">21 km</label>
+              <p>
+                <label for="nem"><strong>Neme:</strong> </label>
+                <label for="ferfi">Férfi</label>
+                <input type="radio" name="nem" id="ferfi" />
+                <label for="no">Nő</label>
+                <input type="radio" name="nem" id="no" />
+              </p>
+              <p>
+                <label for="voltemar"><strong>Vettél már részt másik futásunkon? </strong> </label>
+                <input type="checkbox" name="voltemar" id="igen" />
+              </p>
+              <label for="problemak"
+                ><strong
+                  >Van-e valamilyen egészségügyi probléma, amiről tudnunk
+                  kell?</strong
+                ></label
+              ><br />
+              <textarea
+                cols="50"
+                rows="10"
+                name="Egészségügyi problémák"
+                id="problemak"
+              ></textarea>
+    
+              <p>
+                A jelentkezést követően felvesszük veled a kapcsolatot további
+                információk miatt.
+              </p>
+              <p><strong>Köszönjük szépen!</strong></p>
+    
+              <input type="submit" value="Jelentkezem!" />
+              <input type="reset" value="Újrakezdés!" />
+              <!-- <label for="hirlevel"
+                >Fel szeretnék jelentkezni a filmes hírlevélre</label
+              > -->
+            </fieldset>
+          </form>
+        </div>
+        <div>
+          <aside>
+            <img src="urlap1.webp" alt="Futó emberek">
+          </aside>
+        </div>
+      </div>
+      
+        
+        
+    </main>
+
+    <footer>
+      <hr />
+
+      <div class="zaro">
+        <div>
+          <h3>Elérhetőség</h3>
+          <ul>
+            <li>Telefonszám +36 123 4567</li>
+            <li>Email: runwithus1234@gmail.com</li>
+          </ul>
+        </div>
+
+        <div>
+          <p>© Runwithus.co 2025</p>
+        </div>
+
+        <div>
+          <p>Tudj meg többet rólunk!</p>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,250 @@
+html {
+    background-image     : url(hatter.jpg);
+    background-attachment: fixed;
+}
+
+body
+{
+    margin          : 20px auto;
+    background-color: rgb(134, 134, 134);
+    width           : 75%;
+}
+
+p,
+h1,
+h2{
+    margin: 20px;
+}
+
+h1,h2
+{
+    text-decoration: underline;
+}
+
+h2#bal
+{
+    text-align: right;
+}
+img
+{  
+    width: 25%;
+    height: 25%;
+    /* margin: 15px; */
+}
+
+img.logo
+{
+    width: 20%;
+    height: 20%;
+    margin: 15px;
+            
+    
+
+}
+
+hr
+{
+    width: 95%;
+    margin: 5px auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
+
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background: #2c3e50;  /* Sötétkék-navbar háttér */
+    
+  }
+  
+  /* NAVIGÁCIÓS LINKJEK */
+.navbar_linkek {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    gap: 1.5rem;
+    margin: 0;
+    padding: 0;
+  }
+  
+.navbar_linkek li
+  {
+    list-style: none;
+  }
+
+  .navbar_linkek li a {
+    color: #ecf0f1;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    position: relative;
+    transition: color 0.3s ease;
+    display: inline-block;
+
+    
+  }
+  
+  .navbar_linkek li a:hover {
+    background: #3498db;  /* Kék hover háttér */
+    color: white;
+
+    
+  }
+  
+  /* AKTÍV MENÜPONT (jelenleg a kezdőknek) */
+  .navbar_linkek li a strong {
+    color: #f1c40f;  /* Sárga kiemelés */
+    font-weight: 600;
+  }
+  
+
+/*  */
+
+/*lap alja  */
+
+
+.zaro
+{
+    display: flex;
+    justify-content: space-between;
+    background: #2c3e50;
+    color: white;
+    align-items: center;
+    
+    padding: 2rem; /* Belső tér a tartalomhoz */
+    box-sizing: border-box; /* A padding ne növelje a szélességet */
+    
+}
+.zaro h3
+{
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+
+
+/*1. oldal*/
+
+div.balszoveg {
+    margin-left: 30px;
+    margin-right: 0;          /* Jobb oldali margó törlése */
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;  /* Szöveg és kép fent legyenek */
+  }
+
+div.balszoveg > div {
+    flex: 1;
+    padding: 10px;  /* Opcionális, a belső térköz növelésére */
+}
+
+.jobbkep {
+    text-align: right;
+    height: 60%;
+    width: 60%;
+    display: block;
+}
+
+.balkep
+{
+    
+    text-align: left;
+    height: 60%;
+    width: 60%;
+    display: block;
+}
+
+/* 2. oldal */
+
+.tablazat
+{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+td, tr {
+    border: 1px solid #000000;
+    padding: 8px;
+}
+
+
+.kepek_video {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    gap: 30px;
+    margin: 0 auto;
+    max-width: 100%; /* Növeld a szélességet */
+}
+  
+.kepek_video > div {
+    flex: 1;
+  }
+  /* A bal oldali képek konténere: egymás alá rendezze a két divet */
+  .kepek {
+    display: flex;
+    flex-direction: column;      /* Fuggőlegesen egymás alá rendezi a képeket */
+    gap: 20px;                   /* Térköz a két kép között */
+    flex: 1;                     /* Opcionális: a bal oldali oszlop is rugalmasan nőhet */
+    margin-left: 15px;
+
+  }
+  
+  /* Képek méretezése (érdemes a saját arányaikat megtartani) */
+  .kepek img {
+    max-width: 100%;            /* A konténer szélességéhez igazodjon */
+    height: auto;               /* Magasságot arányosan méretezi */
+    display: block;             /* Felesleges margók elkerülése */
+
+  }
+
+  .kepek_video > div:last-child video {
+    width: 80%;               /* Vagy pl. 100%, ha rugalmasabban akarod */
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+
+/* 3. oldal */
+.urlapkep
+{
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  width: 100%;
+  max-height: 100vh;
+  
+  
+}
+.urlapkep div {
+  max-width: 40%;
+  max-height: 100%;
+}
+
+.urlapkep div:first-child {
+  text-align: center;
+  margin-right: 10px; /* Jobb oldali margó */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.urlapkep div:last-child {
+  text-align: center;
+  margin-left: 10px; /* Bal oldali margó */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.urlapkep img {
+  border-radius: 8px;
+  width: 80%;;
+}
+
+
+
+

@@ -22,5 +22,29 @@ namespace Kereskedes_mndj3p
             this.dateTime = DateTime.Parse(date);
             this.price = price;
         }
+
+        public string AnimalID
+        {
+            get { return animalID; }
+            set { animalID = value; }
+        }
+
+        public string SellerIDNumber
+        {
+            get { return sellerIDNumber; }
+            set { sellerIDNumber = value; }
+        }
+
+        public string BuyerIDNumber
+        {
+            get { return buyerIDNumber; }
+            set { buyerIDNumber = value; }
+        }
+
+        public int Price
+        {
+            get { return price; }
+            set { price = value; }
+        }
     }
 }

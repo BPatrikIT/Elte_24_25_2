@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Kereskedes_mndj3p\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F09363E-00FE-45BC-87B6-4F4E80726B5D}|Kereskedes_mndj3p.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\kereskedes_mndj3p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F09363E-00FE-45BC-87B6-4F4E80726B5D}|Kereskedes_mndj3p.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F09363E-00FE-45BC-87B6-4F4E80726B5D}|Kereskedes_mndj3p.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\kereskedes_mndj3p\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F09363E-00FE-45BC-87B6-4F4E80726B5D}|Kereskedes_mndj3p.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F09363E-00FE-45BC-87B6-4F4E80726B5D}|Kereskedes_mndj3p.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\kereskedes_mndj3p\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F09363E-00FE-45BC-87B6-4F4E80726B5D}|Kereskedes_mndj3p.csproj|solutionrelative:bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F09363E-00FE-45BC-87B6-4F4E80726B5D}|Kereskedes_mndj3p.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\kereskedes_mndj3p\\species.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F09363E-00FE-45BC-87B6-4F4E80726B5D}|Kereskedes_mndj3p.csproj|solutionrelative:species.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F09363E-00FE-45BC-87B6-4F4E80726B5D}|Kereskedes_mndj3p.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\kereskedes_mndj3p\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F09363E-00FE-45BC-87B6-4F4E80726B5D}|Kereskedes_mndj3p.csproj|solutionrelative:address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F09363E-00FE-45BC-87B6-4F4E80726B5D}|Kereskedes_mndj3p.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\kereskedes_mndj3p\\animalkeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F09363E-00FE-45BC-87B6-4F4E80726B5D}|Kereskedes_mndj3p.csproj|solutionrelative:animalkeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F09363E-00FE-45BC-87B6-4F4E80726B5D}|Kereskedes_mndj3p.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\kereskedes_mndj3p\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F09363E-00FE-45BC-87B6-4F4E80726B5D}|Kereskedes_mndj3p.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F09363E-00FE-45BC-87B6-4F4E80726B5D}|Kereskedes_mndj3p.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\kereskedes_mndj3p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F09363E-00FE-45BC-87B6-4F4E80726B5D}|Kereskedes_mndj3p.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F09363E-00FE-45BC-87B6-4F4E80726B5D}|Kereskedes_mndj3p.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\kereskedes_mndj3p\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F09363E-00FE-45BC-87B6-4F4E80726B5D}|Kereskedes_mndj3p.csproj|solutionrelative:address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F09363E-00FE-45BC-87B6-4F4E80726B5D}|Kereskedes_mndj3p.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\kereskedes_mndj3p\\species.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F09363E-00FE-45BC-87B6-4F4E80726B5D}|Kereskedes_mndj3p.csproj|solutionrelative:species.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,43 +34,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Kereskedes_mndj3p\\Animal.cs",
               "RelativeDocumentMoniker": "Animal.cs",
               "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Kereskedes_mndj3p\\Animal.cs",
               "RelativeToolTip": "Animal.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T09:39:38.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Species.cs",
               "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Kereskedes_mndj3p\\Species.cs",
               "RelativeDocumentMoniker": "Species.cs",
               "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Kereskedes_mndj3p\\Species.cs",
               "RelativeToolTip": "Species.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBYAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T09:41:14.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T09:41:14.89Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Kereskedes_mndj3p\\Address.cs",
               "RelativeDocumentMoniker": "Address.cs",
               "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Kereskedes_mndj3p\\Address.cs",
               "RelativeToolTip": "Address.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAmwCIAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T09:53:28.179Z",
               "EditorCaption": ""
@@ -83,7 +82,7 @@
               "RelativeDocumentMoniker": "Bill.cs",
               "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Kereskedes_mndj3p\\Bill.cs",
               "RelativeToolTip": "Bill.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T09:35:57.04Z",
               "EditorCaption": ""
@@ -96,20 +95,20 @@
               "RelativeDocumentMoniker": "AnimalKeeper.cs",
               "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Kereskedes_mndj3p\\AnimalKeeper.cs",
               "RelativeToolTip": "AnimalKeeper.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T09:33:37.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Kereskedes_mndj3p\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Kereskedes_mndj3p\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD4AAAA1AAAAAAAAAA==",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Kereskedes_mndj3p\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUCAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T09:32:40.964Z",
               "EditorCaption": ""

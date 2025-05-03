@@ -57,6 +57,7 @@ namespace Kereskedes_mndj3p
                     return 0; // Default case if color doesn't match
             }
         }
+
     }
 
     internal class Finch : Species
@@ -88,7 +89,7 @@ namespace Kereskedes_mndj3p
     internal class Tarantula : Species
     {
         // Constructor to pass color and name to base class
-        public Tarantula(string color) : base(color, "Tarantula") { }
+        public Tarantula() : base("black", "Tarantula") { }
 
         // Correctly implemented the property
         public override int IdeologicalValue => 8000;

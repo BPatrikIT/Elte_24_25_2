@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Pet.cs",
               "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\petShop\\Pet.cs",
               "RelativeToolTip": "Pet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T23:38:41.271Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Bill.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T23:26:07.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T23:26:07.567Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Address.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwCoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T22:40:13.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T22:40:13.397Z"
             },
             {
               "$type": "Document",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T22:38:02.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T22:38:02.219Z"
             }
           ]
         }

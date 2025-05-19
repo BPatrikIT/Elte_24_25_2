@@ -1,0 +1,15 @@
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\petShop\bin\Debug\net8.0\petShop.exe
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\petShop\bin\Debug\net8.0\petShop.deps.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\petShop\bin\Debug\net8.0\petShop.runtimeconfig.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\petShop\bin\Debug\net8.0\petShop.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\petShop\bin\Debug\net8.0\petShop.pdb
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\petShop\obj\Debug\net8.0\petShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\petShop\obj\Debug\net8.0\petShop.AssemblyInfoInputs.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\petShop\obj\Debug\net8.0\petShop.AssemblyInfo.cs
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\petShop\obj\Debug\net8.0\petShop.csproj.CoreCompileInputs.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\petShop\obj\Debug\net8.0\petShop.sourcelink.json
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\petShop\obj\Debug\net8.0\petShop.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\petShop\obj\Debug\net8.0\refint\petShop.dll
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\petShop\obj\Debug\net8.0\petShop.pdb
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\petShop\obj\Debug\net8.0\petShop.genruntimeconfig.cache
+C:\PatrikITWorkSpace\Elte_24_25_2\ObjElvProg\petShop\obj\Debug\net8.0\ref\petShop.dll

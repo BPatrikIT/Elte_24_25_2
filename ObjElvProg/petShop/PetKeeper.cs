@@ -1,27 +1,30 @@
-﻿namespace petShop
-{
-    class PetKeeper
-    {
-        protected string name;
-        protected Address address;
-        protected string idNumber;
-        protected List<Bill> bills;
+public class PetKeeper {
+    public string Name { get; }
+    public string Address { get; }
+    public string IdNumber { get; }
+    public List<Bill> Bills { get; } = new();
+    public List<Pet> OwnedPets { get; } = new();
 
-        public PetKeeper(string name, Address address, string idNumber)
-        {
-            this.name = name;
-            this.address = address;
-            this.idNumber = idNumber;
-            this.bills = new List<Bill>();
-        }
+    public PetKeeper(string name, string address, string idNumber) {
+        Name = name;
+        Address = address;
+        IdNumber = idNumber;
     }
 
-    class PetShop : PetKeeper
-    {
-        protected List<string> partners;
-        public PetShop(string name, Address address, string idNumber) : base(name, address, idNumber)
-        {
-            this.partners = new List<string>();
-        }
-    }
+    public bool HasSpecificPet(Color color, Type petType) =>
+        OwnedPets.Any(p => p.Color == color && p.GetType() == petType);
+
+    public int CountPetsOfType(Type petType) =>
+        OwnedPets.Count(p => p.GetType() == petType);
+
+    public int CountBillsFrom(PetKeeper partner) =>
+        Bills.Count(b => b.Seller == partner || b.Buyer == partner);
+
+    public bool OwnsPet(Pet pet) => OwnedPets.Contains(pet);
+
+    public bool OwnsPetByID(string petID) =>
+        OwnedPets.Any(p => p.PetID == petID);
+
+    public List<Bill> GetAllTransactionsWith(PetKeeper partner) =>
+        Bills.Where(b => b.Seller == partner || b.Buyer == partner).ToList();
 }

@@ -1,4 +1,6 @@
-﻿namespace petShop
+﻿using System.Globalization;
+
+namespace PetShop
 {
     internal class Program
     {

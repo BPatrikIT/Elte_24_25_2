@@ -1,24 +1,22 @@
-﻿namespace petShop
-{
-    class Bill
-    {
-        protected string billNumber;
-        protected string petId;
-        protected string petType;
-        protected string sellerId;
-        protected string buyerId;
-        protected DateTime date;
-        protected int price;
+public class Bill {
+    public PetKeeper Seller { get; }
+    public PetKeeper Buyer { get; }
+    public Pet Pet { get; }
+    public DateTime Date { get; }
+    public int Price { get; }
 
-        public Bill(string billNumber, string petId, string petType, string sellerId, string buyerId, DateTime date, int price)
-        {
-            this.billNumber = billNumber;
-            this.petId = petId;
-            this.petType = petType;
-            this.sellerId = sellerId;
-            this.buyerId = buyerId;
-            this.date = date;
-            this.price = price;
-        }
+    public Bill(PetKeeper seller, PetKeeper buyer, Pet pet, DateTime date, int price) {
+        Seller = seller;
+        Buyer = buyer;
+        Pet = pet;
+        Date = date;
+        Price = price;
+    }
+
+    public void TransferOwnership() {
+        Seller.OwnedPets.Remove(Pet);
+        Buyer.OwnedPets.Add(Pet);
+        Seller.Bills.Add(this);
+        Buyer.Bills.Add(this);
     }
 }

@@ -7,4 +7,18 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="testData.csv" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="testData.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MSTest.TestFramework" Version="3.8.3" />
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,45 @@
+PetShop: Kisállat Mennyország, Fő utca 1., PSH001
+Partner: Kovács Béla, Vörösmarty utca 2., ID100
+Partner: Szabó Anna, Kossuth utca 5., ID101
+Partner: Kiss Gábor, Rákóczi út 10., ID102
+Partner: Tóth Eszter, Bartók Béla út 7., ID103
+Partner: Nagy László, Arany János utca 11., ID104
+Partner: Varga Erika, Petőfi Sándor tér 4., ID105
+Partner: Molnár Dénes, Madách utca 3., ID106
+Partner: Horváth Kati, Árpád út 18., ID107
+Partner: Balogh Zoltán, Móricz Zsigmond krt. 15., ID108
+Partner: Farkas Lilla, Szent István krt. 9., ID109
+
+Pet: Hamster, H001, Brown, 1, 100
+Pet: Hamster, H002, White, 2, 90
+Pet: Hamster, H003, Black, 1, 110
+Pet: Hamster, H004, Yellow, 3, 80
+Pet: Finch, F001, Yellow, 1, 150
+Pet: Finch, F002, White, 2, 160
+Pet: Finch, F003, Black, 1, 140
+Pet: Finch, F004, Brown, 3, 130
+Pet: Tarantula, T001, Black, 4, 300
+Pet: Tarantula, T002, Brown, 5, 350
+Pet: Tarantula, T003, White, 6, 320
+
+Bill: Kisállat Mennyország -> Kovács Béla, H001, 2024-05-01, 120
+Bill: Kisállat Mennyország -> Szabó Anna, F001, 2024-05-02, 160
+Bill: Kisállat Mennyország -> Kiss Gábor, T001, 2024-05-03, 330
+Bill: Kisállat Mennyország -> Tóth Eszter, H002, 2024-05-04, 95
+Bill: Kisállat Mennyország -> Nagy László, F002, 2024-05-05, 165
+Bill: Kisállat Mennyország -> Varga Erika, H003, 2024-05-06, 115
+Bill: Kisállat Mennyország -> Molnár Dénes, F003, 2024-05-07, 145
+Bill: Kisállat Mennyország -> Horváth Kati, T002, 2024-05-08, 360
+Bill: Kisállat Mennyország -> Balogh Zoltán, F004, 2024-05-09, 135
+Bill: Kisállat Mennyország -> Farkas Lilla, H004, 2024-05-10, 85
+
+Bill: Kovács Béla -> Nagy László, H001, 2024-05-11, 125
+Bill: Szabó Anna -> Kiss Gábor, F001, 2024-05-12, 170
+Bill: Kiss Gábor -> Tóth Eszter, T001, 2024-05-13, 350
+Bill: Tóth Eszter -> Varga Erika, H002, 2024-05-14, 100
+Bill: Nagy László -> Horváth Kati, F002, 2024-05-15, 170
+Bill: Varga Erika -> Balogh Zoltán, H003, 2024-05-16, 120
+Bill: Molnár Dénes -> Farkas Lilla, F003, 2024-05-17, 150
+Bill: Horváth Kati -> Kovács Béla, T002, 2024-05-18, 370
+Bill: Balogh Zoltán -> Szabó Anna, F004, 2024-05-19, 140
+Bill: Farkas Lilla -> Molnár Dénes, H004, 2024-05-20, 90

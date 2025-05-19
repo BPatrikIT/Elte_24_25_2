@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\petShop\\petShop.csproj": {}
+    "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\PetShop.csproj": {}
   },
   "projects": {
-    "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\petShop\\petShop.csproj": {
+    "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\PetShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\petShop\\petShop.csproj",
-        "projectName": "petShop",
-        "projectPath": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\petShop\\petShop.csproj",
+        "projectUniqueName": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\PetShop.csproj",
+        "projectName": "PetShop",
+        "projectPath": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\PetShop.csproj",
         "packagesPath": "C:\\Users\\barto\\.nuget\\packages\\",
-        "outputPath": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\petShop\\obj\\",
+        "outputPath": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.8.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

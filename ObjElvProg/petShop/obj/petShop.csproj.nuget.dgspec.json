@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\PetShop.csproj": {}
+    "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\petShop\\PetShop.csproj": {}
   },
   "projects": {
-    "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\PetShop.csproj": {
+    "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\petShop\\PetShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\PetShop.csproj",
+        "projectUniqueName": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\petShop\\PetShop.csproj",
         "projectName": "PetShop",
-        "projectPath": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\PetShop.csproj",
+        "projectPath": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\petShop\\PetShop.csproj",
         "packagesPath": "C:\\Users\\barto\\.nuget\\packages\\",
         "outputPath": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\obj\\",
         "projectStyle": "PackageReference",

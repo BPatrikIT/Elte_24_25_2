@@ -5805,8 +5805,8 @@
     },
     "PetShop/1.0.0": {
       "type": "project",
-      "path": "../PetShop/PetShop.csproj",
-      "msbuildProject": "../PetShop/PetShop.csproj"
+      "path": "../petShop/PetShop.csproj",
+      "msbuildProject": "../petShop/PetShop.csproj"
     }
   },
   "projectFileDependencyGroups": {

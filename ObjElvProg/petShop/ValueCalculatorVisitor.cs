@@ -1,5 +1,8 @@
-public class ValueCalculatorVisitor : IVisitor {
-    public double Visit(Hamster h) => h.IdeologicalValue * h.Color.GetMultiplier();
-    public double Visit(Finch f) => f.IdeologicalValue * f.Color.GetMultiplier();
-    public double Visit(Tarantula t) => t.IdeologicalValue;
+public class ValueCalculatorVisitor : IVisitor
+{
+    public double Visit(Hamster h) => h.ideologicalValue * h.color.GetMultiplier();
+
+    public double Visit(Finch f) => f.ideologicalValue * f.color.GetMultiplier();
+
+    public double Visit(Tarantula t) => t.ideologicalValue;
 }

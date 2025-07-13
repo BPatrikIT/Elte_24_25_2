@@ -3,41 +3,35 @@
   "WorkspaceRootPath": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6155BC8B-E20F-4887-BBC5-A5859D00DCF8}|..\\PetShop.Tests\\PetShop.Tests.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\petshop.tests\\petshoptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6155BC8B-E20F-4887-BBC5-A5859D00DCF8}|..\\PetShop.Tests\\PetShop.Tests.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\petshop.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6155BC8B-E20F-4887-BBC5-A5859D00DCF8}|..\\PetShop.Tests\\PetShop.Tests.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\petshop.tests\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\petshop\\valuecalculatorvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|solutionrelative:valuecalculatorvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\petshop\\ivisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|solutionrelative:ivisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\petshop\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|solutionrelative:pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\petshop\\petsubtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|solutionrelative:petsubtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\petshop\\petmarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|solutionrelative:petmarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\petshop\\hamster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|solutionrelative:hamster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\petshop\\petkeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|solutionrelative:petkeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\petshop\\ivisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|solutionrelative:ivisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6155BC8B-E20F-4887-BBC5-A5859D00DCF8}|..\\PetShop.Tests\\PetShop.Tests.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\petshop.tests\\petshoptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\petshop\\petmarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|solutionrelative:petmarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\petshop\\imultiplierstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|solutionrelative:imultiplierstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\petshop\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,6 +40,12 @@
     {
       "AbsoluteMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\petshop\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD194C57-3CA5-44D5-A9D3-4EF066B9EB31}|PetShop.csproj|solutionrelative:bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6155BC8B-E20F-4887-BBC5-A5859D00DCF8}|..\\PetShop.Tests\\PetShop.Tests.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\petshop.tests\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6155BC8B-E20F-4887-BBC5-A5859D00DCF8}|..\\PetShop.Tests\\PetShop.Tests.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\petshop.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,72 +55,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "testData.csv",
-              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop.Tests\\testData.csv",
-              "RelativeDocumentMoniker": "..\\PetShop.Tests\\testData.csv",
-              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop.Tests\\testData.csv",
-              "RelativeToolTip": "..\\PetShop.Tests\\testData.csv",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-05-24T23:02:14.413Z",
+              "Title": "Hamster.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\Hamster.cs",
+              "RelativeDocumentMoniker": "Hamster.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\Hamster.cs",
+              "RelativeToolTip": "Hamster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T19:40:27.565Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ValueCalculatorVisitor.cs",
-              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\ValueCalculatorVisitor.cs",
-              "RelativeDocumentMoniker": "ValueCalculatorVisitor.cs",
-              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\ValueCalculatorVisitor.cs",
-              "RelativeToolTip": "ValueCalculatorVisitor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "PetKeeper.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\PetKeeper.cs",
+              "RelativeDocumentMoniker": "PetKeeper.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\PetKeeper.cs",
+              "RelativeToolTip": "PetKeeper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T22:42:51.575Z"
+              "WhenOpened": "2025-06-15T19:36:03.18Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PetSubtypes.cs",
-              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\PetSubtypes.cs",
-              "RelativeDocumentMoniker": "PetSubtypes.cs",
-              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\PetSubtypes.cs",
-              "RelativeToolTip": "PetSubtypes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T22:41:25.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Pet.cs",
               "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\Pet.cs",
               "RelativeDocumentMoniker": "Pet.cs",
               "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\Pet.cs",
               "RelativeToolTip": "Pet.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAnwBAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T22:41:15.118Z"
+              "WhenOpened": "2025-06-15T19:36:02.135Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "IVisitor.cs",
               "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\IVisitor.cs",
               "RelativeDocumentMoniker": "IVisitor.cs",
               "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\IVisitor.cs",
               "RelativeToolTip": "IVisitor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T22:41:13.397Z"
+              "WhenOpened": "2025-06-15T19:36:01.115Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
+              "Title": "IMultiplierStrategy.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\IMultiplierStrategy.cs",
+              "RelativeDocumentMoniker": "IMultiplierStrategy.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\IMultiplierStrategy.cs",
+              "RelativeToolTip": "IMultiplierStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T19:36:00.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Color.cs",
               "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\Color.cs",
               "RelativeDocumentMoniker": "Color.cs",
@@ -128,11 +131,11 @@
               "RelativeToolTip": "Color.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T22:41:10.916Z"
+              "WhenOpened": "2025-06-15T19:35:58.954Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "Bill.cs",
               "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\Bill.cs",
               "RelativeDocumentMoniker": "Bill.cs",
@@ -140,48 +143,48 @@
               "RelativeToolTip": "Bill.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T22:00:50.194Z"
+              "WhenOpened": "2025-06-15T19:35:57.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PetKeeper.cs",
-              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\PetKeeper.cs",
-              "RelativeDocumentMoniker": "PetKeeper.cs",
-              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\PetKeeper.cs",
-              "RelativeToolTip": "PetKeeper.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAwwAcAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T21:18:26.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "PetMarket.cs",
               "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\PetMarket.cs",
               "RelativeDocumentMoniker": "PetMarket.cs",
               "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\PetMarket.cs",
               "RelativeToolTip": "PetMarket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T21:11:26.518Z"
+              "WhenOpened": "2025-06-15T19:33:29.538Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
+              "Title": "testData.csv",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop.Tests\\testData.csv",
+              "RelativeDocumentMoniker": "..\\PetShop.Tests\\testData.csv",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop.Tests\\testData.csv",
+              "RelativeToolTip": "..\\PetShop.Tests\\testData.csv",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-05-24T23:02:14.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PetShopTests.cs",
               "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop.Tests\\PetShopTests.cs",
               "RelativeDocumentMoniker": "..\\PetShop.Tests\\PetShopTests.cs",
               "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop.Tests\\PetShopTests.cs",
               "RelativeToolTip": "..\\PetShop.Tests\\PetShopTests.cs",
-              "ViewState": "AgIAAJ0AAAAAAAAAAAAwwL8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAwwL8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T21:08:53.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "..\\PetShop.Tests\\UnitTest1.cs",
@@ -189,21 +192,19 @@
               "RelativeToolTip": "..\\PetShop.Tests\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T21:07:42.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T21:07:42.452Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T11:40:29.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T11:40:29.854Z"
             }
           ]
         }

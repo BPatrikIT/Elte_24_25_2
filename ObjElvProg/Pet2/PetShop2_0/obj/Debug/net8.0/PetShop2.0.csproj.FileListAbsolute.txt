@@ -1,0 +1,15 @@
+C:\PatrikITWorkSpace\PITContactQuerry\PetShop2.0\bin\Debug\net8.0\PetShop2.0.exe
+C:\PatrikITWorkSpace\PITContactQuerry\PetShop2.0\bin\Debug\net8.0\PetShop2.0.deps.json
+C:\PatrikITWorkSpace\PITContactQuerry\PetShop2.0\bin\Debug\net8.0\PetShop2.0.runtimeconfig.json
+C:\PatrikITWorkSpace\PITContactQuerry\PetShop2.0\bin\Debug\net8.0\PetShop2.0.dll
+C:\PatrikITWorkSpace\PITContactQuerry\PetShop2.0\bin\Debug\net8.0\PetShop2.0.pdb
+C:\PatrikITWorkSpace\PITContactQuerry\PetShop2.0\obj\Debug\net8.0\PetShop2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\PatrikITWorkSpace\PITContactQuerry\PetShop2.0\obj\Debug\net8.0\PetShop2.0.AssemblyInfoInputs.cache
+C:\PatrikITWorkSpace\PITContactQuerry\PetShop2.0\obj\Debug\net8.0\PetShop2.0.AssemblyInfo.cs
+C:\PatrikITWorkSpace\PITContactQuerry\PetShop2.0\obj\Debug\net8.0\PetShop2.0.csproj.CoreCompileInputs.cache
+C:\PatrikITWorkSpace\PITContactQuerry\PetShop2.0\obj\Debug\net8.0\PetShop2.0.sourcelink.json
+C:\PatrikITWorkSpace\PITContactQuerry\PetShop2.0\obj\Debug\net8.0\PetShop2.0.dll
+C:\PatrikITWorkSpace\PITContactQuerry\PetShop2.0\obj\Debug\net8.0\refint\PetShop2.0.dll
+C:\PatrikITWorkSpace\PITContactQuerry\PetShop2.0\obj\Debug\net8.0\PetShop2.0.pdb
+C:\PatrikITWorkSpace\PITContactQuerry\PetShop2.0\obj\Debug\net8.0\PetShop2.0.genruntimeconfig.cache
+C:\PatrikITWorkSpace\PITContactQuerry\PetShop2.0\obj\Debug\net8.0\ref\PetShop2.0.dll

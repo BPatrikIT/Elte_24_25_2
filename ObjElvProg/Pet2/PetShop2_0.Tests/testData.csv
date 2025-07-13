@@ -1,0 +1,46 @@
+PetShop: Kisállat Mennyország, Fő utca 1., PSH001
+
+Partner: Kovács Béla, Vörösmarty utca 2., ID100
+Partner: Szabó Anna, Kossuth utca 5., ID101
+Partner: Kiss Gábor, Rákóczi út 10., ID102
+Partner: Tóth Eszter, Bartók Béla út 7., ID103
+Partner: Nagy László, Arany János utca 11., ID104
+Partner: Varga Erika, Petőfi Sándor tér 4., ID105
+Partner: Molnár Dénes, Madách utca 3., ID106
+Partner: Horváth Kati, Árpád út 18., ID107
+Partner: Balogh Zoltán, Móricz Zsigmond krt. 15., ID108
+Partner: Farkas Lilla, Szent István krt. 9., ID109
+
+Pet: Hamster, H001, Red, 1, 100
+Pet: Hamster, H002, Yellow, 2, 90
+Pet: Hamster, H003, Green, 1, 110
+Pet: Hamster, H004, Blue, 3, 80
+Pet: Finch, F001, Yellow, 1, 150
+Pet: Finch, F002, Blue, 2, 160
+Pet: Finch, F003, Green, 1, 140
+Pet: Finch, F004, Red, 3, 130
+Pet: Tarantula, T001, Green, 4, 300
+Pet: Tarantula, T002, Red, 5, 350
+Pet: Tarantula, T003, Blue, 6, 320
+
+Bill: PSH001 -> ID100, H001, 2024-05-01, 120
+Bill: PSH001 -> ID101, F001, 2024-05-02, 160
+Bill: PSH001 -> ID102, T001, 2024-05-03, 330
+Bill: PSH001 -> ID103, H002, 2024-05-04, 95
+Bill: PSH001 -> ID104, F002, 2024-05-05, 165
+Bill: PSH001 -> ID105, H003, 2024-05-06, 115
+Bill: PSH001 -> ID106, F003, 2024-05-07, 145
+Bill: PSH001 -> ID107, T002, 2024-05-08, 360
+Bill: PSH001 -> ID108, F004, 2024-05-09, 135
+Bill: PSH001 -> ID109, H004, 2024-05-10, 85
+
+Bill: ID100 -> ID104, H001, 2024-05-11, 125
+Bill: ID101 -> ID102, F001, 2024-05-12, 170
+Bill: ID102 -> ID103, T001, 2024-05-13, 350
+Bill: ID103 -> ID105, H002, 2024-05-14, 100
+Bill: ID104 -> ID107, F002, 2024-05-15, 170
+Bill: ID105 -> ID108, H003, 2024-05-16, 120
+Bill: ID106 -> ID109, F003, 2024-05-17, 150
+Bill: ID107 -> ID100, T002, 2024-05-18, 370
+Bill: ID108 -> ID101, F004, 2024-05-19, 140
+Bill: ID109 -> ID106, H004, 2024-05-20, 90

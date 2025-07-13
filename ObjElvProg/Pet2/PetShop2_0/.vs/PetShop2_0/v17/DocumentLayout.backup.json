@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Pet2\\PetShop2_0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63D29E-AAED-96A1-DE37-D1933528F3ED}|..\\PetShop2_0.Tests\\PetShop2_0.Tests.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\pet2\\petshop2_0.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF706E2-D8D3-4497-9256-C9D8ADD48837}|PetShop2_0.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\pet2\\petshop2_0\\petshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF706E2-D8D3-4497-9256-C9D8ADD48837}|PetShop2_0.csproj|solutionrelative:petshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF706E2-D8D3-4497-9256-C9D8ADD48837}|PetShop2_0.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\pet2\\petshop2_0\\petkeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF706E2-D8D3-4497-9256-C9D8ADD48837}|PetShop2_0.csproj|solutionrelative:petkeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF706E2-D8D3-4497-9256-C9D8ADD48837}|PetShop2_0.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\pet2\\petshop2_0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF706E2-D8D3-4497-9256-C9D8ADD48837}|PetShop2_0.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF706E2-D8D3-4497-9256-C9D8ADD48837}|PetShop2_0.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\pet2\\petshop2_0\\imultiplierstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF706E2-D8D3-4497-9256-C9D8ADD48837}|PetShop2_0.csproj|solutionrelative:imultiplierstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF706E2-D8D3-4497-9256-C9D8ADD48837}|PetShop2_0.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\pet2\\petshop2_0\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF706E2-D8D3-4497-9256-C9D8ADD48837}|PetShop2_0.csproj|solutionrelative:bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF706E2-D8D3-4497-9256-C9D8ADD48837}|PetShop2_0.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\pet2\\petshop2_0\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF706E2-D8D3-4497-9256-C9D8ADD48837}|PetShop2_0.csproj|solutionrelative:color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF706E2-D8D3-4497-9256-C9D8ADD48837}|PetShop2_0.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\pet2\\petshop2_0\\valuecalculatorvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF706E2-D8D3-4497-9256-C9D8ADD48837}|PetShop2_0.csproj|solutionrelative:valuecalculatorvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF706E2-D8D3-4497-9256-C9D8ADD48837}|PetShop2_0.csproj|c:\\patrikitworkspace\\elte_24_25_2\\objelvprog\\pet2\\petshop2_0\\ivisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF706E2-D8D3-4497-9256-C9D8ADD48837}|PetShop2_0.csproj|solutionrelative:ivisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PetKeeper.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Pet2\\PetShop2_0\\PetKeeper.cs",
+              "RelativeDocumentMoniker": "PetKeeper.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Pet2\\PetShop2_0\\PetKeeper.cs",
+              "RelativeToolTip": "PetKeeper.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:03:15.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IVisitor.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Pet2\\PetShop2_0\\IVisitor.cs",
+              "RelativeDocumentMoniker": "IVisitor.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Pet2\\PetShop2_0\\IVisitor.cs",
+              "RelativeToolTip": "IVisitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:34:56.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMultiplierStrategy.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Pet2\\PetShop2_0\\IMultiplierStrategy.cs",
+              "RelativeDocumentMoniker": "IMultiplierStrategy.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Pet2\\PetShop2_0\\IMultiplierStrategy.cs",
+              "RelativeToolTip": "IMultiplierStrategy.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowB8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:34:43.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValueCalculatorVisitor.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Pet2\\PetShop2_0\\ValueCalculatorVisitor.cs",
+              "RelativeDocumentMoniker": "ValueCalculatorVisitor.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Pet2\\PetShop2_0\\ValueCalculatorVisitor.cs",
+              "RelativeToolTip": "ValueCalculatorVisitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:34:24.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Pet2\\PetShop2_0\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Pet2\\PetShop2_0\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:31:07.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PetShop.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Pet2\\PetShop2_0\\PetShop.cs",
+              "RelativeDocumentMoniker": "PetShop.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Pet2\\PetShop2_0\\PetShop.cs",
+              "RelativeToolTip": "PetShop.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:34:20.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Pet2\\PetShop2_0\\Color.cs",
+              "RelativeDocumentMoniker": "Color.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Pet2\\PetShop2_0\\Color.cs",
+              "RelativeToolTip": "Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:34:18.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Pet2\\PetShop2_0\\Bill.cs",
+              "RelativeDocumentMoniker": "Bill.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Pet2\\PetShop2_0\\Bill.cs",
+              "RelativeToolTip": "Bill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:28:29.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Pet2\\PetShop2_0.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\PetShop2_0.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\Pet2\\PetShop2_0.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\PetShop2_0.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAIAzwMMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:28:26.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

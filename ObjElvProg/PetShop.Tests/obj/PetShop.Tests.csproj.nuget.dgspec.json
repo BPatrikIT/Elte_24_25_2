@@ -99,7 +99,7 @@
         "projectName": "PetShop",
         "projectPath": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\petShop\\PetShop.csproj",
         "packagesPath": "C:\\Users\\barto\\.nuget\\packages\\",
-        "outputPath": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\PetShop\\obj\\",
+        "outputPath": "C:\\PatrikITWorkSpace\\Elte_24_25_2\\ObjElvProg\\petShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
